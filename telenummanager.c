@@ -19,7 +19,7 @@ struct NumberInfo{
     char* city;
     char* owner;
     char* address;
-    char* nhamang;
+    char* nhamang; 
     Number number;
 };
 
